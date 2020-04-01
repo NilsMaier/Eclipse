@@ -10,6 +10,7 @@ if (A) {
 else {
 	System.out.println("no hello");
 }
+System.out.println("hi wie gohts?");
 	}
 
 }
